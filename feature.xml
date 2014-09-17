@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <feature
       id="net.wedjaa.jasper.elasticsearch.elasticjasperfeature"
-      label="Elastic Jasper Feature"
+      label="ElasticJasper Jaspersoft Studio Plugin"
       version="0.5.1.qualifier"
       provider-name="Wedjaa Inc">
 
@@ -22,7 +22,7 @@ agreements. You can review them at the following URLs:
 - Lucene License: https://github.com/apache/lucene.net/blob/master/LICENSE.txt
 
 Acceptance of our license and agreements is also acceptance of
-these dependencies software agreements.      
+these dependencies software agreements.
    </description>
 
    <copyright url="https://github.com/WedjaaOpen/ElasticJasper/raw/master/LICENSE">
@@ -220,7 +220,6 @@ the License.
 
    END OF TERMS AND CONDITIONS
 ----------------------------------------------------------------------------------
-
    </license>
 
    <url>
