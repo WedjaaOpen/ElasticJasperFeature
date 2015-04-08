@@ -2,7 +2,7 @@
 <feature
       id="net.wedjaa.jasper.elasticsearch.elasticjasperfeature"
       label="ElasticJasper Jaspersoft Studio Plugin"
-      version="0.5.1.qualifier"
+      version="1.2.2.qualifier"
       provider-name="Wedjaa Inc">
 
    <description url="https://github.com/WedjaaOpen/ElasticJasper">
@@ -227,16 +227,17 @@ the License.
    </url>
 
    <plugin
-         id="net.wedjaa.jasper.elasticsearch"
+         id="org.elasticsearch.osgi"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
 
    <plugin
-         id="org.elasticsearch.osgi"
+         id="net.wedjaa.jasper.elasticsearch"
          download-size="0"
          install-size="0"
-         version="0.0.0"/>
+         version="0.0.0"
+         unpack="false"/>
 
 </feature>
