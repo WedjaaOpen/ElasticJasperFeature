@@ -2,7 +2,7 @@
 <feature
       id="net.wedjaa.jasper.elasticsearch.elasticjasperfeature"
       label="ElasticJasper Jaspersoft Studio Plugin"
-      version="1.7.0.qualifier"
+      version="2.2.0.qualifier"
       provider-name="Wedjaa Inc">
 
    <description url="https://github.com/WedjaaOpen/ElasticJasper">
