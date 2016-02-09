@@ -227,14 +227,14 @@ the License.
    </url>
 
    <plugin
-         id="org.elasticsearch.osgi"
+         id="net.wedjaa.jasper.elasticsearch"
          download-size="0"
          install-size="0"
          version="0.0.0"
          unpack="false"/>
 
    <plugin
-         id="net.wedjaa.jasper.elasticsearch"
+         id="org.elasticsearch.osgi"
          download-size="0"
          install-size="0"
          version="0.0.0"
