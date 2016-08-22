@@ -227,11 +227,7 @@ the License.
    </url>
 
    <plugin
-<<<<<<< HEAD
          id="net.wedjaa.jasper.elasticsearch"
-=======
-         id="es-osgi-bundle"
->>>>>>> 457c581684d06a9ee53e308793a1e73f45023a9e
          download-size="0"
          install-size="0"
          version="0.0.0"
