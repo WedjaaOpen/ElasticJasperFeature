@@ -27,13 +27,13 @@ these dependencies software agreements.
 
    <copyright url="https://github.com/WedjaaOpen/ElasticJasper/raw/master/LICENSE">
       Copyright 2013-2014 Wedjaa &lt;http://www.wedjaa.net/&gt;
- 
+
 Licensed under the Apache License, Version 2.0 (the &quot;License&quot;); you may not
 use this file except in compliance with the License. You may obtain a copy of
 the License at
 
 http://www.apache.org/licenses/LICENSE-2.0
- 
+
 Unless required by applicable law or agreed to in writing, software
 distributed under the License is distributed on an &quot;AS IS&quot; BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
@@ -227,7 +227,11 @@ the License.
    </url>
 
    <plugin
+<<<<<<< HEAD
          id="net.wedjaa.jasper.elasticsearch"
+=======
+         id="es-osgi-bundle"
+>>>>>>> 457c581684d06a9ee53e308793a1e73f45023a9e
          download-size="0"
          install-size="0"
          version="0.0.0"
